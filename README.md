@@ -23,6 +23,7 @@ Example Use Cases
 
 And I used inquiries in my project to verify it and 
 each of them to help me inquire about something
+
 1 SELECT orders.order_id 
 FROM orders 
 WHERE user_id = 4;
